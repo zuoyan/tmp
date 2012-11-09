@@ -1,0 +1,6 @@
+WHAT
+====
+
+C++0x template meta-programming routines.
+
+Tested with g++-4.5, g++-4.6, g++-4.7.
